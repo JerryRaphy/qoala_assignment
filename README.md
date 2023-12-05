@@ -1,1 +1,1 @@
-﻿# Googel-vision-Text-Extractor
+﻿# Quala-assignment-Google-vision-Text-Extractor
